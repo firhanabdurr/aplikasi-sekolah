@@ -37,7 +37,7 @@ Aplikasi web sederhana yang dibangun dengan Laravel untuk mengelola data adminis
     PHP >= 8.1
     Composer
     Node.js & NPM
-    Database Server (misalnya MySQL, MariaDB)
+    Database Server (MySQL, MariaDB)
 ```
 
 2. Instalasi Dependensi
